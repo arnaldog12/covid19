@@ -1,0 +1,9 @@
+name: datascience
+channels:
+  - defaults
+dependencies:
+  - python=3.5
+  - jupyter
+  - pandas
+prefix: D:\conda\envs\datascience
+
